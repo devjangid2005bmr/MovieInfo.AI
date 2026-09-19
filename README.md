@@ -15,6 +15,11 @@ Simply provide a movie description or paragraph and the application automaticall
 - 📝 Summary
 
 
+## 🚀 Project Preview
+
+![MovieInfo.AI UI](Screenshot 2026-09-19 204942.png)
+
+
 ## ✨ Features
 
 - 🤖 Powered by Google Gemini
